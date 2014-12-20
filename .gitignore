@@ -184,7 +184,7 @@ $RECYCLE.BIN/
 .DS_Store
 
 # ignore police records directory, filesizes are too big
-"C:\Users\Pat\Desktop\The Project\github\docs\police records\"
+police\ records/
 
 #############
 ## Python
